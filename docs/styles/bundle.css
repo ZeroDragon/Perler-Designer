@@ -1,0 +1,20 @@
+body {
+  margin: 4px;
+  padding: 0;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.1);
+  font-family: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  outline: none;
+}
