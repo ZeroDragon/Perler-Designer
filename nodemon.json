@@ -1,0 +1,7 @@
+{
+  "ext": "js,vue,pug,sass",
+  "ignore": [
+    "./dev/",
+    "./dist/"
+  ]
+}
